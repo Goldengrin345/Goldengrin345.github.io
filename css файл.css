@@ -1,0 +1,12 @@
+body{
+	background: #99ffff;
+	background-size: cover;
+}
+h1{
+	font-size: 1000%;
+	color:red;
+}
+p.a{
+	color: blue;
+	font-size:200%;
+}
